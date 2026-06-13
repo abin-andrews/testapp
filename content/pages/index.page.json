@@ -15,7 +15,8 @@
           "MwVl1rEn",
           "kwnHseoi",
           "hDtrL_1F",
-          "OaNgb9i5"
+          "OaNgb9i5",
+          "UcblWaCV"
         ],
         "props": {
           "label": "Page Root"
@@ -390,7 +391,7 @@
       "UcblWaCV": {
         "id": "UcblWaCV",
         "type": "text",
-        "parentId": "P_FFeFH8",
+        "parentId": "root",
         "children": [],
         "props": {
           "content": "Learn from industry leaders shaping the next decade of technology."
@@ -408,8 +409,7 @@
         "parentId": "U6HFg_xK",
         "children": [
           "Y0w_xTdS",
-          "mcYknapT",
-          "UcblWaCV"
+          "mcYknapT"
         ],
         "props": {
           "label": "Container"
