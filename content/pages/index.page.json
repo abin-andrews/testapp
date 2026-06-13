@@ -1,0 +1,675 @@
+{
+  "schema": 1,
+  "id": "ZBj25DAc",
+  "route": "/",
+  "title": "Home",
+  "renderMode": "static",
+  "tree": {
+    "rootId": "root",
+    "nodes": {
+      "root": {
+        "id": "root",
+        "type": "container",
+        "parentId": null,
+        "children": [
+          "MwVl1rEn",
+          "kwnHseoi",
+          "hDtrL_1F",
+          "OaNgb9i5"
+        ],
+        "props": {
+          "label": "Page Root"
+        },
+        "classes": []
+      },
+      "ZaM4YYS2": {
+        "id": "ZaM4YYS2",
+        "type": "heading",
+        "parentId": "MwVl1rEn",
+        "children": [],
+        "props": {
+          "content": "◈ EventConf",
+          "level": 3
+        },
+        "classes": [
+          "text-xl",
+          "font-bold",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "yfhaPjae": {
+        "id": "yfhaPjae",
+        "type": "link",
+        "parentId": "tr7HotoT",
+        "children": [],
+        "props": {
+          "href": "/schedule",
+          "label": "Schedule"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "rhucy_By": {
+        "id": "rhucy_By",
+        "type": "link",
+        "parentId": "tr7HotoT",
+        "children": [],
+        "props": {
+          "href": "/speakers",
+          "label": "Speakers"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "l1-EyHUn": {
+        "id": "l1-EyHUn",
+        "type": "link",
+        "parentId": "tr7HotoT",
+        "children": [],
+        "props": {
+          "href": "/venue",
+          "label": "Venue"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "mZV_dCgh": {
+        "id": "mZV_dCgh",
+        "type": "link",
+        "parentId": "tr7HotoT",
+        "children": [],
+        "props": {
+          "href": "/register",
+          "label": "Register"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "tr7HotoT": {
+        "id": "tr7HotoT",
+        "type": "container",
+        "parentId": "MwVl1rEn",
+        "children": [
+          "yfhaPjae",
+          "rhucy_By",
+          "l1-EyHUn",
+          "mZV_dCgh"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "gap-6",
+          "items-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "MwVl1rEn": {
+        "id": "MwVl1rEn",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "ZaM4YYS2",
+          "tr7HotoT"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "items-center",
+          "justify-between",
+          "px-8",
+          "py-4",
+          "bg-white",
+          "border-b",
+          "border-gray-100",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "799XzkZl": {
+        "id": "799XzkZl",
+        "type": "text",
+        "parentId": "Dj_Mb_BS",
+        "children": [],
+        "props": {
+          "content": "📅 September 14–16, 2025 · San Francisco, CA"
+        },
+        "classes": [
+          "inline-block",
+          "bg-white",
+          "bg-opacity-10",
+          "text-violet-200",
+          "text-sm",
+          "font-semibold",
+          "px-5",
+          "py-1.5",
+          "rounded-full",
+          "mb-8"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "gV2uwOl8": {
+        "id": "gV2uwOl8",
+        "type": "heading",
+        "parentId": "Dj_Mb_BS",
+        "children": [],
+        "props": {
+          "content": "EventConf 2025",
+          "level": 1
+        },
+        "classes": [
+          "text-6xl",
+          "font-black",
+          "text-white",
+          "mb-4",
+          "leading-tight"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "pYSQNyDy": {
+        "id": "pYSQNyDy",
+        "type": "heading",
+        "parentId": "Dj_Mb_BS",
+        "children": [],
+        "props": {
+          "content": "The Future of Technology, Together",
+          "level": 2
+        },
+        "classes": [
+          "text-2xl",
+          "font-light",
+          "text-violet-300",
+          "mb-8"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "27v0q5zm": {
+        "id": "27v0q5zm",
+        "type": "text",
+        "parentId": "Dj_Mb_BS",
+        "children": [],
+        "props": {
+          "content": "3 days · 50+ speakers · 2,000 attendees · 30+ workshops"
+        },
+        "classes": [
+          "text-violet-200",
+          "mb-10"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "BXb2Lykh": {
+        "id": "BXb2Lykh",
+        "type": "button",
+        "parentId": "bc11Vv3d",
+        "children": [],
+        "props": {
+          "label": "Register Now →"
+        },
+        "classes": [
+          "px-8",
+          "py-4",
+          "bg-violet-500",
+          "hover:bg-violet-400",
+          "text-white",
+          "font-bold",
+          "rounded-xl",
+          "text-lg"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "RmqrFsZ_": {
+        "id": "RmqrFsZ_",
+        "type": "button",
+        "parentId": "bc11Vv3d",
+        "children": [],
+        "props": {
+          "label": "View Schedule"
+        },
+        "classes": [
+          "px-8",
+          "py-4",
+          "border",
+          "border-violet-400",
+          "text-violet-200",
+          "font-semibold",
+          "rounded-xl",
+          "text-lg"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "bc11Vv3d": {
+        "id": "bc11Vv3d",
+        "type": "container",
+        "parentId": "Dj_Mb_BS",
+        "children": [
+          "BXb2Lykh",
+          "RmqrFsZ_"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "gap-4",
+          "justify-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Dj_Mb_BS": {
+        "id": "Dj_Mb_BS",
+        "type": "container",
+        "parentId": "kwnHseoi",
+        "children": [
+          "799XzkZl",
+          "gV2uwOl8",
+          "pYSQNyDy",
+          "27v0q5zm",
+          "bc11Vv3d"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-3xl",
+          "mx-auto"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "kwnHseoi": {
+        "id": "kwnHseoi",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "Dj_Mb_BS"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gradient-to-br",
+          "from-violet-900",
+          "to-indigo-900",
+          "py-32",
+          "px-8",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "n1kguxlK": {
+        "id": "n1kguxlK",
+        "type": "heading",
+        "parentId": "9ju7HQi8",
+        "children": [],
+        "props": {
+          "content": "Why Attend?",
+          "level": 2
+        },
+        "classes": [
+          "text-3xl",
+          "font-bold",
+          "text-gray-900",
+          "text-center",
+          "mb-12"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Y0w_xTdS": {
+        "id": "Y0w_xTdS",
+        "type": "text",
+        "parentId": "P_FFeFH8",
+        "children": [],
+        "props": {
+          "content": "🎤"
+        },
+        "classes": [
+          "text-4xl",
+          "mb-3"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "mcYknapT": {
+        "id": "mcYknapT",
+        "type": "heading",
+        "parentId": "P_FFeFH8",
+        "children": [],
+        "props": {
+          "content": "World-Class Speakers",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "UcblWaCV": {
+        "id": "UcblWaCV",
+        "type": "text",
+        "parentId": "P_FFeFH8",
+        "children": [],
+        "props": {
+          "content": "Learn from industry leaders shaping the next decade of technology."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "P_FFeFH8": {
+        "id": "P_FFeFH8",
+        "type": "container",
+        "parentId": "U6HFg_xK",
+        "children": [
+          "Y0w_xTdS",
+          "mcYknapT",
+          "UcblWaCV"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "text-center",
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "59LViAxy": {
+        "id": "59LViAxy",
+        "type": "text",
+        "parentId": "FI-hJlaw",
+        "children": [],
+        "props": {
+          "content": "🤝"
+        },
+        "classes": [
+          "text-4xl",
+          "mb-3"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "xZ8fG8Hv": {
+        "id": "xZ8fG8Hv",
+        "type": "heading",
+        "parentId": "FI-hJlaw",
+        "children": [],
+        "props": {
+          "content": "Deep Networking",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "VIFVvtHo": {
+        "id": "VIFVvtHo",
+        "type": "text",
+        "parentId": "FI-hJlaw",
+        "children": [],
+        "props": {
+          "content": "Connect with 2,000 engineers, founders, and innovators."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "FI-hJlaw": {
+        "id": "FI-hJlaw",
+        "type": "container",
+        "parentId": "U6HFg_xK",
+        "children": [
+          "59LViAxy",
+          "xZ8fG8Hv",
+          "VIFVvtHo"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "text-center",
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "r273W3l9": {
+        "id": "r273W3l9",
+        "type": "text",
+        "parentId": "M1KJ2qR0",
+        "children": [],
+        "props": {
+          "content": "🛠️"
+        },
+        "classes": [
+          "text-4xl",
+          "mb-3"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "CI9P7gj8": {
+        "id": "CI9P7gj8",
+        "type": "heading",
+        "parentId": "M1KJ2qR0",
+        "children": [],
+        "props": {
+          "content": "Hands-On Workshops",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "nR0Ynh-A": {
+        "id": "nR0Ynh-A",
+        "type": "text",
+        "parentId": "M1KJ2qR0",
+        "children": [],
+        "props": {
+          "content": "30+ deep-dive workshops on AI, cloud, security, and more."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "M1KJ2qR0": {
+        "id": "M1KJ2qR0",
+        "type": "container",
+        "parentId": "U6HFg_xK",
+        "children": [
+          "r273W3l9",
+          "CI9P7gj8",
+          "nR0Ynh-A"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "text-center",
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "U6HFg_xK": {
+        "id": "U6HFg_xK",
+        "type": "grid",
+        "parentId": "9ju7HQi8",
+        "children": [
+          "P_FFeFH8",
+          "FI-hJlaw",
+          "M1KJ2qR0"
+        ],
+        "props": {
+          "label": "Grid"
+        },
+        "classes": [
+          "w-full"
+        ],
+        "styles": {},
+        "rawCss": "",
+        "gridConfig": {
+          "columns": 3,
+          "gap": "gap-8",
+          "minRows": 1
+        }
+      },
+      "9ju7HQi8": {
+        "id": "9ju7HQi8",
+        "type": "container",
+        "parentId": "hDtrL_1F",
+        "children": [
+          "n1kguxlK",
+          "U6HFg_xK"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-5xl",
+          "mx-auto"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "hDtrL_1F": {
+        "id": "hDtrL_1F",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "9ju7HQi8"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "py-20",
+          "px-8",
+          "bg-white"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "o_tothR4": {
+        "id": "o_tothR4",
+        "type": "heading",
+        "parentId": "OaNgb9i5",
+        "children": [],
+        "props": {
+          "content": "EventConf 2025",
+          "level": 4
+        },
+        "classes": [
+          "text-white",
+          "font-bold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "BZbXv1VF": {
+        "id": "BZbXv1VF",
+        "type": "text",
+        "parentId": "OaNgb9i5",
+        "children": [],
+        "props": {
+          "content": "© 2025 EventConf. All rights reserved."
+        },
+        "classes": [
+          "text-gray-400",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "OaNgb9i5": {
+        "id": "OaNgb9i5",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "o_tothR4",
+          "BZbXv1VF"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gray-900",
+          "py-10",
+          "px-8",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      }
+    }
+  },
+  "meta": {
+    "lastEditedBy": "cmqc8wmie0001k3fmufpwtaaz",
+    "lastEditedSha": "2e747e56e3034cecffbe4889bcf98b3a26410de7"
+  }
+}
