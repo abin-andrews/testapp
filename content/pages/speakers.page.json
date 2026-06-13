@@ -1,0 +1,858 @@
+{
+  "schema": 1,
+  "id": "TLI6IDL7",
+  "route": "/speakers",
+  "title": "Speakers",
+  "renderMode": "static",
+  "tree": {
+    "rootId": "root",
+    "nodes": {
+      "root": {
+        "id": "root",
+        "type": "container",
+        "parentId": null,
+        "children": [
+          "1a_dwbgu",
+          "_XpIfGMJ",
+          "bwkaMbw8"
+        ],
+        "props": {
+          "label": "Page Root"
+        },
+        "classes": []
+      },
+      "wikLD4Jv": {
+        "id": "wikLD4Jv",
+        "type": "heading",
+        "parentId": "1a_dwbgu",
+        "children": [],
+        "props": {
+          "content": "◈ EventConf",
+          "level": 3
+        },
+        "classes": [
+          "text-xl",
+          "font-bold",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "5ro1SKKX": {
+        "id": "5ro1SKKX",
+        "type": "link",
+        "parentId": "rocRpoG_",
+        "children": [],
+        "props": {
+          "href": "/",
+          "label": "Home"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "dqpTHQDk": {
+        "id": "dqpTHQDk",
+        "type": "link",
+        "parentId": "rocRpoG_",
+        "children": [],
+        "props": {
+          "href": "/schedule",
+          "label": "Schedule"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "qEdYEciI": {
+        "id": "qEdYEciI",
+        "type": "link",
+        "parentId": "rocRpoG_",
+        "children": [],
+        "props": {
+          "href": "/register",
+          "label": "Register"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "rocRpoG_": {
+        "id": "rocRpoG_",
+        "type": "container",
+        "parentId": "1a_dwbgu",
+        "children": [
+          "5ro1SKKX",
+          "dqpTHQDk",
+          "qEdYEciI"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "gap-6",
+          "items-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "1a_dwbgu": {
+        "id": "1a_dwbgu",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "wikLD4Jv",
+          "rocRpoG_"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "items-center",
+          "justify-between",
+          "px-8",
+          "py-4",
+          "bg-white",
+          "border-b",
+          "border-gray-100",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "CLH2B6jw": {
+        "id": "CLH2B6jw",
+        "type": "heading",
+        "parentId": "6JEgnZnx",
+        "children": [],
+        "props": {
+          "content": "Featured Speakers",
+          "level": 1
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-gray-900",
+          "mb-3"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "iDDGS5qG": {
+        "id": "iDDGS5qG",
+        "type": "text",
+        "parentId": "6JEgnZnx",
+        "children": [],
+        "props": {
+          "content": "50+ world-class speakers across AI, engineering, design, and leadership."
+        },
+        "classes": [
+          "text-gray-500",
+          "mb-12"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "N_KVvzm2": {
+        "id": "N_KVvzm2",
+        "type": "image",
+        "parentId": "ZOnqyonJ",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Dr. Amara Singh"
+        },
+        "classes": [
+          "w-20",
+          "h-20",
+          "rounded-full",
+          "mx-auto",
+          "mb-4",
+          "object-cover",
+          "bg-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "IZRSQYHi": {
+        "id": "IZRSQYHi",
+        "type": "heading",
+        "parentId": "ZOnqyonJ",
+        "children": [],
+        "props": {
+          "content": "Dr. Amara Singh",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "x52X_ENx": {
+        "id": "x52X_ENx",
+        "type": "text",
+        "parentId": "ZOnqyonJ",
+        "children": [],
+        "props": {
+          "content": "CEO, NexaAI"
+        },
+        "classes": [
+          "text-violet-600",
+          "text-sm",
+          "font-medium",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "eqhOuWQf": {
+        "id": "eqhOuWQf",
+        "type": "text",
+        "parentId": "ZOnqyonJ",
+        "children": [],
+        "props": {
+          "content": "🧠 AI & Machine Learning"
+        },
+        "classes": [
+          "text-gray-400",
+          "text-xs"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "ZOnqyonJ": {
+        "id": "ZOnqyonJ",
+        "type": "container",
+        "parentId": "iCWr9Sj0",
+        "children": [
+          "N_KVvzm2",
+          "IZRSQYHi",
+          "x52X_ENx",
+          "eqhOuWQf"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "text-center",
+          "border",
+          "border-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "4v9sF50Y": {
+        "id": "4v9sF50Y",
+        "type": "image",
+        "parentId": "ktLEX6OZ",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Marcus Lee"
+        },
+        "classes": [
+          "w-20",
+          "h-20",
+          "rounded-full",
+          "mx-auto",
+          "mb-4",
+          "object-cover",
+          "bg-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "uR5MjMuy": {
+        "id": "uR5MjMuy",
+        "type": "heading",
+        "parentId": "ktLEX6OZ",
+        "children": [],
+        "props": {
+          "content": "Marcus Lee",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "do-GHNeV": {
+        "id": "do-GHNeV",
+        "type": "text",
+        "parentId": "ktLEX6OZ",
+        "children": [],
+        "props": {
+          "content": "CTO, Orion Systems"
+        },
+        "classes": [
+          "text-violet-600",
+          "text-sm",
+          "font-medium",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "gi4AMGhQ": {
+        "id": "gi4AMGhQ",
+        "type": "text",
+        "parentId": "ktLEX6OZ",
+        "children": [],
+        "props": {
+          "content": "☁️ Cloud Architecture"
+        },
+        "classes": [
+          "text-gray-400",
+          "text-xs"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "ktLEX6OZ": {
+        "id": "ktLEX6OZ",
+        "type": "container",
+        "parentId": "iCWr9Sj0",
+        "children": [
+          "4v9sF50Y",
+          "uR5MjMuy",
+          "do-GHNeV",
+          "gi4AMGhQ"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "text-center",
+          "border",
+          "border-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "9lTkYSoM": {
+        "id": "9lTkYSoM",
+        "type": "image",
+        "parentId": "fopb0IFe",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Priya Patel"
+        },
+        "classes": [
+          "w-20",
+          "h-20",
+          "rounded-full",
+          "mx-auto",
+          "mb-4",
+          "object-cover",
+          "bg-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "k09GQDTJ": {
+        "id": "k09GQDTJ",
+        "type": "heading",
+        "parentId": "fopb0IFe",
+        "children": [],
+        "props": {
+          "content": "Priya Patel",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "JaHodzeS": {
+        "id": "JaHodzeS",
+        "type": "text",
+        "parentId": "fopb0IFe",
+        "children": [],
+        "props": {
+          "content": "VP Product, Stripe"
+        },
+        "classes": [
+          "text-violet-600",
+          "text-sm",
+          "font-medium",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "qrneWSZ_": {
+        "id": "qrneWSZ_",
+        "type": "text",
+        "parentId": "fopb0IFe",
+        "children": [],
+        "props": {
+          "content": "💳 FinTech & Product"
+        },
+        "classes": [
+          "text-gray-400",
+          "text-xs"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "fopb0IFe": {
+        "id": "fopb0IFe",
+        "type": "container",
+        "parentId": "iCWr9Sj0",
+        "children": [
+          "9lTkYSoM",
+          "k09GQDTJ",
+          "JaHodzeS",
+          "qrneWSZ_"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "text-center",
+          "border",
+          "border-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "mvQ6T_LX": {
+        "id": "mvQ6T_LX",
+        "type": "image",
+        "parentId": "iSlQ45z1",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "James Okafor"
+        },
+        "classes": [
+          "w-20",
+          "h-20",
+          "rounded-full",
+          "mx-auto",
+          "mb-4",
+          "object-cover",
+          "bg-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "IDjQSq1C": {
+        "id": "IDjQSq1C",
+        "type": "heading",
+        "parentId": "iSlQ45z1",
+        "children": [],
+        "props": {
+          "content": "James Okafor",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "F6_dUGIG": {
+        "id": "F6_dUGIG",
+        "type": "text",
+        "parentId": "iSlQ45z1",
+        "children": [],
+        "props": {
+          "content": "Principal Engineer, Google"
+        },
+        "classes": [
+          "text-violet-600",
+          "text-sm",
+          "font-medium",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "oflCuSkr": {
+        "id": "oflCuSkr",
+        "type": "text",
+        "parentId": "iSlQ45z1",
+        "children": [],
+        "props": {
+          "content": "⚙️ Distributed Systems"
+        },
+        "classes": [
+          "text-gray-400",
+          "text-xs"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "iSlQ45z1": {
+        "id": "iSlQ45z1",
+        "type": "container",
+        "parentId": "iCWr9Sj0",
+        "children": [
+          "mvQ6T_LX",
+          "IDjQSq1C",
+          "F6_dUGIG",
+          "oflCuSkr"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "text-center",
+          "border",
+          "border-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Zb9zViKT": {
+        "id": "Zb9zViKT",
+        "type": "image",
+        "parentId": "-HY4kYd1",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Sofia Reyes"
+        },
+        "classes": [
+          "w-20",
+          "h-20",
+          "rounded-full",
+          "mx-auto",
+          "mb-4",
+          "object-cover",
+          "bg-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "DC8wBX07": {
+        "id": "DC8wBX07",
+        "type": "heading",
+        "parentId": "-HY4kYd1",
+        "children": [],
+        "props": {
+          "content": "Sofia Reyes",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "VOhQXFPb": {
+        "id": "VOhQXFPb",
+        "type": "text",
+        "parentId": "-HY4kYd1",
+        "children": [],
+        "props": {
+          "content": "Design Lead, Figma"
+        },
+        "classes": [
+          "text-violet-600",
+          "text-sm",
+          "font-medium",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "eHcBo2Ft": {
+        "id": "eHcBo2Ft",
+        "type": "text",
+        "parentId": "-HY4kYd1",
+        "children": [],
+        "props": {
+          "content": "🎨 Design Systems"
+        },
+        "classes": [
+          "text-gray-400",
+          "text-xs"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "-HY4kYd1": {
+        "id": "-HY4kYd1",
+        "type": "container",
+        "parentId": "iCWr9Sj0",
+        "children": [
+          "Zb9zViKT",
+          "DC8wBX07",
+          "VOhQXFPb",
+          "eHcBo2Ft"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "text-center",
+          "border",
+          "border-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "sWvCYW7b": {
+        "id": "sWvCYW7b",
+        "type": "image",
+        "parentId": "HYCvipNP",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Alex Chen"
+        },
+        "classes": [
+          "w-20",
+          "h-20",
+          "rounded-full",
+          "mx-auto",
+          "mb-4",
+          "object-cover",
+          "bg-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "hj9PB2Bi": {
+        "id": "hj9PB2Bi",
+        "type": "heading",
+        "parentId": "HYCvipNP",
+        "children": [],
+        "props": {
+          "content": "Alex Chen",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "kG5oe9KD": {
+        "id": "kG5oe9KD",
+        "type": "text",
+        "parentId": "HYCvipNP",
+        "children": [],
+        "props": {
+          "content": "Founder, Voyager Labs"
+        },
+        "classes": [
+          "text-violet-600",
+          "text-sm",
+          "font-medium",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "bXK38VoG": {
+        "id": "bXK38VoG",
+        "type": "text",
+        "parentId": "HYCvipNP",
+        "children": [],
+        "props": {
+          "content": "🚀 Startups & Growth"
+        },
+        "classes": [
+          "text-gray-400",
+          "text-xs"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "HYCvipNP": {
+        "id": "HYCvipNP",
+        "type": "container",
+        "parentId": "iCWr9Sj0",
+        "children": [
+          "sWvCYW7b",
+          "hj9PB2Bi",
+          "kG5oe9KD",
+          "bXK38VoG"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "text-center",
+          "border",
+          "border-gray-200"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "iCWr9Sj0": {
+        "id": "iCWr9Sj0",
+        "type": "grid",
+        "parentId": "6JEgnZnx",
+        "children": [
+          "ZOnqyonJ",
+          "ktLEX6OZ",
+          "fopb0IFe",
+          "iSlQ45z1",
+          "-HY4kYd1",
+          "HYCvipNP"
+        ],
+        "props": {
+          "label": "Grid"
+        },
+        "classes": [
+          "w-full"
+        ],
+        "styles": {},
+        "rawCss": "",
+        "gridConfig": {
+          "columns": 3,
+          "gap": "gap-6",
+          "minRows": 1
+        }
+      },
+      "6JEgnZnx": {
+        "id": "6JEgnZnx",
+        "type": "container",
+        "parentId": "_XpIfGMJ",
+        "children": [
+          "CLH2B6jw",
+          "iDDGS5qG",
+          "iCWr9Sj0"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-5xl",
+          "mx-auto"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "_XpIfGMJ": {
+        "id": "_XpIfGMJ",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "6JEgnZnx"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "py-16",
+          "px-8",
+          "bg-gray-50"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "B8TStKJU": {
+        "id": "B8TStKJU",
+        "type": "heading",
+        "parentId": "bwkaMbw8",
+        "children": [],
+        "props": {
+          "content": "EventConf 2025",
+          "level": 4
+        },
+        "classes": [
+          "text-white",
+          "font-bold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "ZUQCsYvU": {
+        "id": "ZUQCsYvU",
+        "type": "text",
+        "parentId": "bwkaMbw8",
+        "children": [],
+        "props": {
+          "content": "© 2025 EventConf. All rights reserved."
+        },
+        "classes": [
+          "text-gray-400",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "bwkaMbw8": {
+        "id": "bwkaMbw8",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "B8TStKJU",
+          "ZUQCsYvU"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gray-900",
+          "py-10",
+          "px-8",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      }
+    }
+  },
+  "meta": {
+    "lastEditedBy": "cmqc8wmie0001k3fmufpwtaaz",
+    "lastEditedSha": "2e747e56e3034cecffbe4889bcf98b3a26410de7"
+  }
+}
