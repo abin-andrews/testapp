@@ -16,7 +16,8 @@
           "kwnHseoi",
           "hDtrL_1F",
           "OaNgb9i5",
-          "UcblWaCV"
+          "UcblWaCV",
+          "mcYknapT"
         ],
         "props": {
           "label": "Page Root"
@@ -373,7 +374,7 @@
       "mcYknapT": {
         "id": "mcYknapT",
         "type": "heading",
-        "parentId": "P_FFeFH8",
+        "parentId": "root",
         "children": [],
         "props": {
           "content": "World-Class Speakers",
@@ -408,8 +409,7 @@
         "type": "container",
         "parentId": "U6HFg_xK",
         "children": [
-          "Y0w_xTdS",
-          "mcYknapT"
+          "Y0w_xTdS"
         ],
         "props": {
           "label": "Container"
