@@ -15,10 +15,7 @@
           "MwVl1rEn",
           "kwnHseoi",
           "hDtrL_1F",
-          "OaNgb9i5",
-          "UcblWaCV",
-          "mcYknapT",
-          "Y0w_xTdS"
+          "OaNgb9i5"
         ],
         "props": {
           "label": "Page Root"
@@ -360,7 +357,7 @@
       "Y0w_xTdS": {
         "id": "Y0w_xTdS",
         "type": "text",
-        "parentId": "root",
+        "parentId": "P_FFeFH8",
         "children": [],
         "props": {
           "content": "🎤"
@@ -375,7 +372,7 @@
       "mcYknapT": {
         "id": "mcYknapT",
         "type": "heading",
-        "parentId": "root",
+        "parentId": "P_FFeFH8",
         "children": [],
         "props": {
           "content": "World-Class Speakers",
@@ -393,7 +390,7 @@
       "UcblWaCV": {
         "id": "UcblWaCV",
         "type": "text",
-        "parentId": "root",
+        "parentId": "P_FFeFH8",
         "children": [],
         "props": {
           "content": "Learn from industry leaders shaping the next decade of technology."
@@ -409,7 +406,11 @@
         "id": "P_FFeFH8",
         "type": "container",
         "parentId": "U6HFg_xK",
-        "children": [],
+        "children": [
+          "Y0w_xTdS",
+          "mcYknapT",
+          "UcblWaCV"
+        ],
         "props": {
           "label": "Container"
         },
