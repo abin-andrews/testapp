@@ -17,7 +17,8 @@
           "hDtrL_1F",
           "OaNgb9i5",
           "UcblWaCV",
-          "mcYknapT"
+          "mcYknapT",
+          "Y0w_xTdS"
         ],
         "props": {
           "label": "Page Root"
@@ -359,7 +360,7 @@
       "Y0w_xTdS": {
         "id": "Y0w_xTdS",
         "type": "text",
-        "parentId": "P_FFeFH8",
+        "parentId": "root",
         "children": [],
         "props": {
           "content": "🎤"
@@ -408,9 +409,7 @@
         "id": "P_FFeFH8",
         "type": "container",
         "parentId": "U6HFg_xK",
-        "children": [
-          "Y0w_xTdS"
-        ],
+        "children": [],
         "props": {
           "label": "Container"
         },
