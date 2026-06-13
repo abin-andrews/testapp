@@ -1,0 +1,516 @@
+{
+  "schema": 1,
+  "id": "fBRZ0WpS",
+  "route": "/register",
+  "title": "Register",
+  "renderMode": "static",
+  "tree": {
+    "rootId": "root",
+    "nodes": {
+      "root": {
+        "id": "root",
+        "type": "container",
+        "parentId": null,
+        "children": [
+          "BKSa3KE8",
+          "mR5nTpXQ",
+          "vchJfJ_a"
+        ],
+        "props": {
+          "label": "Page Root"
+        },
+        "classes": []
+      },
+      "BH0wgskC": {
+        "id": "BH0wgskC",
+        "type": "heading",
+        "parentId": "BKSa3KE8",
+        "children": [],
+        "props": {
+          "content": "◈ EventConf",
+          "level": 3
+        },
+        "classes": [
+          "text-xl",
+          "font-bold",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "q8wo5LpY": {
+        "id": "q8wo5LpY",
+        "type": "link",
+        "parentId": "jMwCagC_",
+        "children": [],
+        "props": {
+          "href": "/",
+          "label": "Home"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "GZYVGkwg": {
+        "id": "GZYVGkwg",
+        "type": "link",
+        "parentId": "jMwCagC_",
+        "children": [],
+        "props": {
+          "href": "/schedule",
+          "label": "Schedule"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "_Y_xBNC5": {
+        "id": "_Y_xBNC5",
+        "type": "link",
+        "parentId": "jMwCagC_",
+        "children": [],
+        "props": {
+          "href": "/speakers",
+          "label": "Speakers"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "jMwCagC_": {
+        "id": "jMwCagC_",
+        "type": "container",
+        "parentId": "BKSa3KE8",
+        "children": [
+          "q8wo5LpY",
+          "GZYVGkwg",
+          "_Y_xBNC5"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "gap-6",
+          "items-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "BKSa3KE8": {
+        "id": "BKSa3KE8",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "BH0wgskC",
+          "jMwCagC_"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "items-center",
+          "justify-between",
+          "px-8",
+          "py-4",
+          "bg-white",
+          "border-b",
+          "border-gray-100",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "nj-KOh4M": {
+        "id": "nj-KOh4M",
+        "type": "heading",
+        "parentId": "bbUszX_Z",
+        "children": [],
+        "props": {
+          "content": "Secure Your Spot",
+          "level": 1
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-gray-900",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "ImOEIeN5": {
+        "id": "ImOEIeN5",
+        "type": "text",
+        "parentId": "bbUszX_Z",
+        "children": [],
+        "props": {
+          "content": "Early bird pricing ends August 1st. Only 200 tickets remaining."
+        },
+        "classes": [
+          "text-gray-500",
+          "mb-12"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "kgYu8BCY": {
+        "id": "kgYu8BCY",
+        "type": "heading",
+        "parentId": "dwXKUoNv",
+        "children": [],
+        "props": {
+          "content": "General Admission",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-gray-900",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "rWh90Cgv": {
+        "id": "rWh90Cgv",
+        "type": "heading",
+        "parentId": "dwXKUoNv",
+        "children": [],
+        "props": {
+          "content": "$499",
+          "level": 2
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-gray-900",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "AxIqdbZx": {
+        "id": "AxIqdbZx",
+        "type": "list",
+        "parentId": "dwXKUoNv",
+        "children": [],
+        "props": {
+          "ordered": false,
+          "items": [
+            "All keynotes & talks",
+            "Networking events",
+            "Conference swag",
+            "Digital recordings"
+          ]
+        },
+        "classes": [
+          "text-gray-600",
+          "text-sm",
+          "space-y-2",
+          "mb-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "xD8A7F9t": {
+        "id": "xD8A7F9t",
+        "type": "button",
+        "parentId": "dwXKUoNv",
+        "children": [],
+        "props": {
+          "label": "Buy Ticket"
+        },
+        "classes": [
+          "w-full",
+          "py-3",
+          "border",
+          "border-gray-300",
+          "text-gray-700",
+          "font-semibold",
+          "rounded-xl"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "dwXKUoNv": {
+        "id": "dwXKUoNv",
+        "type": "container",
+        "parentId": "ucvh3sju",
+        "children": [
+          "kgYu8BCY",
+          "rWh90Cgv",
+          "AxIqdbZx",
+          "xD8A7F9t"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-8",
+          "border",
+          "border-gray-200",
+          "text-left"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "W5K8ls3B": {
+        "id": "W5K8ls3B",
+        "type": "text",
+        "parentId": "-h8xVNNn",
+        "children": [],
+        "props": {
+          "content": "⭐ Best Value"
+        },
+        "classes": [
+          "text-violet-200",
+          "text-xs",
+          "font-bold",
+          "uppercase",
+          "tracking-widest",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "OY-80Pyz": {
+        "id": "OY-80Pyz",
+        "type": "heading",
+        "parentId": "-h8xVNNn",
+        "children": [],
+        "props": {
+          "content": "VIP All-Access",
+          "level": 3
+        },
+        "classes": [
+          "font-bold",
+          "text-white",
+          "mb-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "dUOWV9QI": {
+        "id": "dUOWV9QI",
+        "type": "heading",
+        "parentId": "-h8xVNNn",
+        "children": [],
+        "props": {
+          "content": "$899",
+          "level": 2
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-white",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "vbBk-WXk": {
+        "id": "vbBk-WXk",
+        "type": "list",
+        "parentId": "-h8xVNNn",
+        "children": [],
+        "props": {
+          "ordered": false,
+          "items": [
+            "Everything in General",
+            "Workshop access",
+            "Speaker dinner",
+            "Priority seating",
+            "VIP lounge"
+          ]
+        },
+        "classes": [
+          "text-violet-100",
+          "text-sm",
+          "space-y-2",
+          "mb-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "xHOO9UNA": {
+        "id": "xHOO9UNA",
+        "type": "button",
+        "parentId": "-h8xVNNn",
+        "children": [],
+        "props": {
+          "label": "Buy VIP Ticket"
+        },
+        "classes": [
+          "w-full",
+          "py-3",
+          "bg-white",
+          "text-violet-700",
+          "font-bold",
+          "rounded-xl"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "-h8xVNNn": {
+        "id": "-h8xVNNn",
+        "type": "container",
+        "parentId": "ucvh3sju",
+        "children": [
+          "W5K8ls3B",
+          "OY-80Pyz",
+          "dUOWV9QI",
+          "vbBk-WXk",
+          "xHOO9UNA"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-violet-600",
+          "rounded-2xl",
+          "p-8",
+          "text-left"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "ucvh3sju": {
+        "id": "ucvh3sju",
+        "type": "grid",
+        "parentId": "bbUszX_Z",
+        "children": [
+          "dwXKUoNv",
+          "-h8xVNNn"
+        ],
+        "props": {
+          "label": "Grid"
+        },
+        "classes": [
+          "w-full",
+          "mb-12"
+        ],
+        "styles": {},
+        "rawCss": "",
+        "gridConfig": {
+          "columns": 2,
+          "gap": "gap-6",
+          "minRows": 1
+        }
+      },
+      "bbUszX_Z": {
+        "id": "bbUszX_Z",
+        "type": "container",
+        "parentId": "mR5nTpXQ",
+        "children": [
+          "nj-KOh4M",
+          "ImOEIeN5",
+          "ucvh3sju"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-2xl",
+          "mx-auto",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "mR5nTpXQ": {
+        "id": "mR5nTpXQ",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "bbUszX_Z"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "py-20",
+          "px-8",
+          "bg-gradient-to-br",
+          "from-violet-50",
+          "to-white"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "G6FMTOqS": {
+        "id": "G6FMTOqS",
+        "type": "heading",
+        "parentId": "vchJfJ_a",
+        "children": [],
+        "props": {
+          "content": "EventConf 2025",
+          "level": 4
+        },
+        "classes": [
+          "text-white",
+          "font-bold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "X_miIxUR": {
+        "id": "X_miIxUR",
+        "type": "text",
+        "parentId": "vchJfJ_a",
+        "children": [],
+        "props": {
+          "content": "© 2025 EventConf. All rights reserved."
+        },
+        "classes": [
+          "text-gray-400",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "vchJfJ_a": {
+        "id": "vchJfJ_a",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "G6FMTOqS",
+          "X_miIxUR"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gray-900",
+          "py-10",
+          "px-8",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      }
+    }
+  },
+  "meta": {
+    "lastEditedBy": "cmqc8wmie0001k3fmufpwtaaz",
+    "lastEditedSha": "2e747e56e3034cecffbe4889bcf98b3a26410de7"
+  }
+}
