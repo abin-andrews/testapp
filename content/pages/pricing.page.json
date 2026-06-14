@@ -1,0 +1,884 @@
+{
+  "schema": 1,
+  "id": "W8u0D-Ln",
+  "route": "/pricing",
+  "title": "Pricing",
+  "renderMode": "static",
+  "tree": {
+    "rootId": "root",
+    "nodes": {
+      "root": {
+        "id": "root",
+        "type": "container",
+        "parentId": null,
+        "children": [
+          "A-mrPDDA",
+          "Ltqxwfvw",
+          "2NNWvKBZ",
+          "Qr6MBB50"
+        ],
+        "props": {
+          "label": "Page Root"
+        },
+        "classes": []
+      },
+      "RLMUMd-r": {
+        "id": "RLMUMd-r",
+        "type": "heading",
+        "parentId": "A-mrPDDA",
+        "children": [],
+        "props": {
+          "content": "◈ Starter",
+          "level": 3
+        },
+        "classes": [
+          "text-xl",
+          "font-bold",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "9rhzw32z": {
+        "id": "9rhzw32z",
+        "type": "link",
+        "parentId": "i9QnoRP8",
+        "children": [],
+        "props": {
+          "href": "/",
+          "label": "Home"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "nEN9of-A": {
+        "id": "nEN9of-A",
+        "type": "link",
+        "parentId": "i9QnoRP8",
+        "children": [],
+        "props": {
+          "href": "/features",
+          "label": "Features"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "XMxbLk93": {
+        "id": "XMxbLk93",
+        "type": "link",
+        "parentId": "i9QnoRP8",
+        "children": [],
+        "props": {
+          "href": "/about",
+          "label": "About"
+        },
+        "classes": [
+          "text-gray-600",
+          "hover:text-gray-900",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "i9QnoRP8": {
+        "id": "i9QnoRP8",
+        "type": "container",
+        "parentId": "A-mrPDDA",
+        "children": [
+          "9rhzw32z",
+          "nEN9of-A",
+          "XMxbLk93"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "gap-6",
+          "items-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "A-mrPDDA": {
+        "id": "A-mrPDDA",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "RLMUMd-r",
+          "i9QnoRP8"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "items-center",
+          "justify-between",
+          "px-8",
+          "py-4",
+          "bg-white",
+          "border-b",
+          "border-gray-100",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "23VyWt-U": {
+        "id": "23VyWt-U",
+        "type": "text",
+        "parentId": "Ltqxwfvw",
+        "children": [],
+        "props": {
+          "content": "🧩 Slot: PricingCard components"
+        },
+        "classes": [
+          "inline-block",
+          "bg-violet-100",
+          "text-violet-600",
+          "text-xs",
+          "font-bold",
+          "tracking-widest",
+          "uppercase",
+          "px-4",
+          "py-1.5",
+          "rounded-full",
+          "mb-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "dxo-R8kb": {
+        "id": "dxo-R8kb",
+        "type": "heading",
+        "parentId": "Ltqxwfvw",
+        "children": [],
+        "props": {
+          "content": "Simple, Transparent Pricing",
+          "level": 1
+        },
+        "classes": [
+          "text-4xl",
+          "font-bold",
+          "text-gray-900",
+          "mb-3"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "zzT94Cj_": {
+        "id": "zzT94Cj_",
+        "type": "text",
+        "parentId": "Ltqxwfvw",
+        "children": [],
+        "props": {
+          "content": "No hidden fees. Cancel anytime. Replace these placeholder cards with PricingCard from the palette."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-lg",
+          "max-w-xl",
+          "mx-auto",
+          "mb-16"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "9FlR0Z3c": {
+        "id": "9FlR0Z3c",
+        "type": "heading",
+        "parentId": "RkZ2EbzK",
+        "children": [],
+        "props": {
+          "content": "Starter",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Brt7KGHn": {
+        "id": "Brt7KGHn",
+        "type": "text",
+        "parentId": "RkZ2EbzK",
+        "children": [],
+        "props": {
+          "content": "For individuals"
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "s5RFm6ZU": {
+        "id": "s5RFm6ZU",
+        "type": "heading",
+        "parentId": "RkZ2EbzK",
+        "children": [],
+        "props": {
+          "content": "$9/mo",
+          "level": 2
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "9DYlr1m2": {
+        "id": "9DYlr1m2",
+        "type": "list",
+        "parentId": "RkZ2EbzK",
+        "children": [],
+        "props": {
+          "ordered": false,
+          "items": [
+            "5 projects",
+            "10 GB storage",
+            "Email support"
+          ]
+        },
+        "classes": [
+          "text-gray-600",
+          "text-sm",
+          "space-y-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "LbVzVa8u": {
+        "id": "LbVzVa8u",
+        "type": "button",
+        "parentId": "RkZ2EbzK",
+        "children": [],
+        "props": {
+          "label": "Get Started"
+        },
+        "classes": [
+          "py-3",
+          "border",
+          "border-gray-300",
+          "text-gray-700",
+          "font-medium",
+          "rounded-xl",
+          "w-full"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "RkZ2EbzK": {
+        "id": "RkZ2EbzK",
+        "type": "container",
+        "parentId": "1pWWYzfC",
+        "children": [
+          "9FlR0Z3c",
+          "Brt7KGHn",
+          "s5RFm6ZU",
+          "9DYlr1m2",
+          "LbVzVa8u"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "rounded-3xl",
+          "border",
+          "border-gray-200",
+          "p-8",
+          "flex",
+          "flex-col",
+          "gap-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "6ZMSIqIH": {
+        "id": "6ZMSIqIH",
+        "type": "heading",
+        "parentId": "AuhjcIsX",
+        "children": [],
+        "props": {
+          "content": "Pro",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-white"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "1x6Qmrz5": {
+        "id": "1x6Qmrz5",
+        "type": "text",
+        "parentId": "AuhjcIsX",
+        "children": [],
+        "props": {
+          "content": "For growing teams"
+        },
+        "classes": [
+          "text-violet-200",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "CVYIK-24": {
+        "id": "CVYIK-24",
+        "type": "heading",
+        "parentId": "AuhjcIsX",
+        "children": [],
+        "props": {
+          "content": "$29/mo",
+          "level": 2
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-white"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "OlSoXc7u": {
+        "id": "OlSoXc7u",
+        "type": "list",
+        "parentId": "AuhjcIsX",
+        "children": [],
+        "props": {
+          "ordered": false,
+          "items": [
+            "Unlimited projects",
+            "100 GB storage",
+            "Priority support",
+            "Advanced analytics"
+          ]
+        },
+        "classes": [
+          "text-violet-100",
+          "text-sm",
+          "space-y-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "gdHsLxM4": {
+        "id": "gdHsLxM4",
+        "type": "button",
+        "parentId": "AuhjcIsX",
+        "children": [],
+        "props": {
+          "label": "Start Free Trial"
+        },
+        "classes": [
+          "py-3",
+          "bg-white",
+          "text-violet-600",
+          "font-semibold",
+          "rounded-xl",
+          "w-full"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "AuhjcIsX": {
+        "id": "AuhjcIsX",
+        "type": "container",
+        "parentId": "1pWWYzfC",
+        "children": [
+          "6ZMSIqIH",
+          "1x6Qmrz5",
+          "CVYIK-24",
+          "OlSoXc7u",
+          "gdHsLxM4"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "rounded-3xl",
+          "bg-violet-600",
+          "p-8",
+          "flex",
+          "flex-col",
+          "gap-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "9UpF3gz0": {
+        "id": "9UpF3gz0",
+        "type": "heading",
+        "parentId": "5mRBVARY",
+        "children": [],
+        "props": {
+          "content": "Enterprise",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "6zzfAPce": {
+        "id": "6zzfAPce",
+        "type": "text",
+        "parentId": "5mRBVARY",
+        "children": [],
+        "props": {
+          "content": "For large organizations"
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "oH1jCJ1E": {
+        "id": "oH1jCJ1E",
+        "type": "heading",
+        "parentId": "5mRBVARY",
+        "children": [],
+        "props": {
+          "content": "Custom",
+          "level": 2
+        },
+        "classes": [
+          "text-4xl",
+          "font-black",
+          "text-gray-900"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "smRxkp2I": {
+        "id": "smRxkp2I",
+        "type": "list",
+        "parentId": "5mRBVARY",
+        "children": [],
+        "props": {
+          "ordered": false,
+          "items": [
+            "Everything in Pro",
+            "SSO & SAML",
+            "Dedicated support",
+            "SLA guarantee"
+          ]
+        },
+        "classes": [
+          "text-gray-600",
+          "text-sm",
+          "space-y-1"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "sl41ovcY": {
+        "id": "sl41ovcY",
+        "type": "button",
+        "parentId": "5mRBVARY",
+        "children": [],
+        "props": {
+          "label": "Contact Sales"
+        },
+        "classes": [
+          "py-3",
+          "border",
+          "border-gray-300",
+          "text-gray-700",
+          "font-medium",
+          "rounded-xl",
+          "w-full"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "5mRBVARY": {
+        "id": "5mRBVARY",
+        "type": "container",
+        "parentId": "1pWWYzfC",
+        "children": [
+          "9UpF3gz0",
+          "6zzfAPce",
+          "oH1jCJ1E",
+          "smRxkp2I",
+          "sl41ovcY"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "rounded-3xl",
+          "border",
+          "border-gray-200",
+          "p-8",
+          "flex",
+          "flex-col",
+          "gap-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "1pWWYzfC": {
+        "id": "1pWWYzfC",
+        "type": "grid",
+        "parentId": "Ltqxwfvw",
+        "children": [
+          "RkZ2EbzK",
+          "AuhjcIsX",
+          "5mRBVARY"
+        ],
+        "props": {
+          "label": "Grid"
+        },
+        "classes": [
+          "max-w-5xl",
+          "mx-auto",
+          "w-full",
+          "items-start"
+        ],
+        "styles": {},
+        "rawCss": "",
+        "gridConfig": {
+          "columns": 3,
+          "gap": "gap-8",
+          "minRows": 1
+        }
+      },
+      "Ltqxwfvw": {
+        "id": "Ltqxwfvw",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "23VyWt-U",
+          "dxo-R8kb",
+          "zzT94Cj_",
+          "1pWWYzfC"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "py-20",
+          "px-8",
+          "bg-white",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "NoGMCWyB": {
+        "id": "NoGMCWyB",
+        "type": "heading",
+        "parentId": "kzd-l2HW",
+        "children": [],
+        "props": {
+          "content": "Frequently Asked Questions",
+          "level": 2
+        },
+        "classes": [
+          "text-3xl",
+          "font-bold",
+          "text-gray-900",
+          "text-center",
+          "mb-12"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "WM__4tQ4": {
+        "id": "WM__4tQ4",
+        "type": "heading",
+        "parentId": "Q3abAyS5",
+        "children": [],
+        "props": {
+          "content": "Can I cancel anytime?",
+          "level": 4
+        },
+        "classes": [
+          "text-gray-900",
+          "font-semibold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "n0bYN3yA": {
+        "id": "n0bYN3yA",
+        "type": "text",
+        "parentId": "Q3abAyS5",
+        "children": [],
+        "props": {
+          "content": "Yes. Cancel from your dashboard at any time — no questions asked."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Q3abAyS5": {
+        "id": "Q3abAyS5",
+        "type": "container",
+        "parentId": "1IeIVBnj",
+        "children": [
+          "WM__4tQ4",
+          "n0bYN3yA"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "aaauIWr4": {
+        "id": "aaauIWr4",
+        "type": "heading",
+        "parentId": "_zeQL0NG",
+        "children": [],
+        "props": {
+          "content": "Is there a free trial?",
+          "level": 4
+        },
+        "classes": [
+          "text-gray-900",
+          "font-semibold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "VYBsAQzx": {
+        "id": "VYBsAQzx",
+        "type": "text",
+        "parentId": "_zeQL0NG",
+        "children": [],
+        "props": {
+          "content": "Every paid plan comes with a 14-day free trial. No credit card required to start."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "_zeQL0NG": {
+        "id": "_zeQL0NG",
+        "type": "container",
+        "parentId": "1IeIVBnj",
+        "children": [
+          "aaauIWr4",
+          "VYBsAQzx"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "o_OoUV03": {
+        "id": "o_OoUV03",
+        "type": "heading",
+        "parentId": "3uqQyZXT",
+        "children": [],
+        "props": {
+          "content": "Do you support custom components?",
+          "level": 4
+        },
+        "classes": [
+          "text-gray-900",
+          "font-semibold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "9fEa7dZs": {
+        "id": "9fEa7dZs",
+        "type": "text",
+        "parentId": "3uqQyZXT",
+        "children": [],
+        "props": {
+          "content": "Yes — any component with a *.builder.ts schema file in your connected Git repo appears in the visual editor palette automatically."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "3uqQyZXT": {
+        "id": "3uqQyZXT",
+        "type": "container",
+        "parentId": "1IeIVBnj",
+        "children": [
+          "o_OoUV03",
+          "9fEa7dZs"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "p-6",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "1IeIVBnj": {
+        "id": "1IeIVBnj",
+        "type": "container",
+        "parentId": "kzd-l2HW",
+        "children": [
+          "Q3abAyS5",
+          "_zeQL0NG",
+          "3uqQyZXT"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "space-y-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "kzd-l2HW": {
+        "id": "kzd-l2HW",
+        "type": "container",
+        "parentId": "2NNWvKBZ",
+        "children": [
+          "NoGMCWyB",
+          "1IeIVBnj"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-2xl",
+          "mx-auto"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "2NNWvKBZ": {
+        "id": "2NNWvKBZ",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "kzd-l2HW"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "py-20",
+          "px-8",
+          "bg-gray-50"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "iFV0q7ai": {
+        "id": "iFV0q7ai",
+        "type": "heading",
+        "parentId": "Qr6MBB50",
+        "children": [],
+        "props": {
+          "content": "◈ Starter",
+          "level": 4
+        },
+        "classes": [
+          "text-white",
+          "font-bold",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "_8z8LFcY": {
+        "id": "_8z8LFcY",
+        "type": "text",
+        "parentId": "Qr6MBB50",
+        "children": [],
+        "props": {
+          "content": "© 2025 Custom Components Starter. Built with Web Builder."
+        },
+        "classes": [
+          "text-gray-400",
+          "text-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Qr6MBB50": {
+        "id": "Qr6MBB50",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "iFV0q7ai",
+          "_8z8LFcY"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gray-900",
+          "py-10",
+          "px-8",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
+      }
+    }
+  },
+  "meta": {
+    "lastEditedBy": "cmqc8wmie0001k3fmufpwtaaz",
+    "lastEditedSha": "64729ea48b9b784b9e56f5b621252a13ae818b4c"
+  }
+}
