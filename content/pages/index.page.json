@@ -14,6 +14,7 @@
         "children": [
           "NRy_P2xo",
           "GKTU90xI",
+          "b_fMTh2K",
           "f2MEhcuD",
           "Jy547E9z",
           "uPLWweD_",
@@ -1019,6 +1020,22 @@
             "ctaLabel": "Get Started",
             "headline": "Welcome to Our Platform",
             "subheadline": "The best solution for modern teams"
+          }
+        }
+      },
+      "b_fMTh2K": {
+        "id": "b_fMTh2K",
+        "parentId": "root",
+        "children": [],
+        "classes": [],
+        "type": "custom",
+        "props": {
+          "componentId": "testimonial-card",
+          "componentProps": {
+            "quote": "This product completely changed how our team works. We ship twice as fast with far fewer bugs.",
+            "authorName": "Sarah Chen",
+            "authorRole": "Head of Engineering @ Stripe",
+            "accentColor": "#7c3aed"
           }
         }
       }
