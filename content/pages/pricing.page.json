@@ -14,6 +14,7 @@
         "children": [
           "A-mrPDDA",
           "zsi_-OD4",
+          "UQHR8vQ4",
           "Ltqxwfvw",
           "2NNWvKBZ",
           "Qr6MBB50"
@@ -890,6 +891,27 @@
             "ctaLabel": "Get Started",
             "headline": "Welcome to Our Platform",
             "subheadline": "The best solution for modern teams"
+          }
+        }
+      },
+      "UQHR8vQ4": {
+        "id": "UQHR8vQ4",
+        "parentId": "root",
+        "children": [],
+        "classes": [],
+        "type": "custom",
+        "props": {
+          "componentId": "pricing-card",
+          "componentProps": {
+            "price": "$29",
+            "ctaUrl": "#",
+            "period": "/month",
+            "tagline": "For growing teams",
+            "ctaLabel": "Start Free Trial",
+            "features": "Unlimited projects\n100 GB storage\nPriority support\nAdvanced analytics",
+            "planName": "Pro",
+            "accentColor": "#2563eb",
+            "highlighted": false
           }
         }
       }
