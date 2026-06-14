@@ -421,21 +421,6 @@
         "styles": {},
         "rawCss": ""
       },
-      "59LViAxy": {
-        "id": "59LViAxy",
-        "type": "text",
-        "parentId": "FI-hJlaw",
-        "children": [],
-        "props": {
-          "content": "🤝"
-        },
-        "classes": [
-          "text-4xl",
-          "mb-3"
-        ],
-        "styles": {},
-        "rawCss": ""
-      },
       "xZ8fG8Hv": {
         "id": "xZ8fG8Hv",
         "type": "heading",
@@ -474,7 +459,6 @@
         "type": "container",
         "parentId": "U6HFg_xK",
         "children": [
-          "59LViAxy",
           "xZ8fG8Hv",
           "VIFVvtHo"
         ],
