@@ -11,11 +11,756 @@
         "id": "root",
         "type": "container",
         "parentId": null,
-        "children": [],
+        "children": [
+          "POpreha4",
+          "X3BVcFkS",
+          "jnQSM4_X"
+        ],
         "props": {
           "label": "Page Root"
         },
         "classes": []
+      },
+      "jlDDPfL3": {
+        "id": "jlDDPfL3",
+        "type": "text",
+        "parentId": "a1BhRPxe",
+        "children": [],
+        "props": {
+          "content": "👋 Hello, I'm"
+        },
+        "classes": [
+          "text-gray-500",
+          "text-lg",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "bj6VQlRe": {
+        "id": "bj6VQlRe",
+        "type": "heading",
+        "parentId": "a1BhRPxe",
+        "children": [],
+        "props": {
+          "content": "Alex Morgan",
+          "level": 1
+        },
+        "classes": [
+          "text-6xl",
+          "font-black",
+          "text-gray-900",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "-L7ofW-k": {
+        "id": "-L7ofW-k",
+        "type": "heading",
+        "parentId": "a1BhRPxe",
+        "children": [],
+        "props": {
+          "content": "Product Designer & Developer",
+          "level": 2
+        },
+        "classes": [
+          "text-2xl",
+          "font-light",
+          "text-blue-600",
+          "mb-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "09OKNox3": {
+        "id": "09OKNox3",
+        "type": "text",
+        "parentId": "a1BhRPxe",
+        "children": [],
+        "props": {
+          "content": "I craft beautiful digital experiences that balance elegant design with technical precision. Passionate about turning complex problems into simple, intuitive solutions."
+        },
+        "classes": [
+          "text-gray-600",
+          "text-lg",
+          "leading-relaxed",
+          "mb-8"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "8etY3hrM": {
+        "id": "8etY3hrM",
+        "type": "button",
+        "parentId": "Doh-XtmZ",
+        "children": [],
+        "props": {
+          "label": "View My Work ↓"
+        },
+        "classes": [
+          "px-6",
+          "py-3",
+          "bg-gray-900",
+          "text-white",
+          "font-semibold",
+          "rounded-lg"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "M_JNsLOR": {
+        "id": "M_JNsLOR",
+        "type": "button",
+        "parentId": "Doh-XtmZ",
+        "children": [],
+        "props": {
+          "label": "Download CV"
+        },
+        "classes": [
+          "px-6",
+          "py-3",
+          "border",
+          "border-gray-300",
+          "text-gray-700",
+          "font-semibold",
+          "rounded-lg"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Doh-XtmZ": {
+        "id": "Doh-XtmZ",
+        "type": "container",
+        "parentId": "a1BhRPxe",
+        "children": [
+          "8etY3hrM",
+          "M_JNsLOR"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "flex",
+          "gap-4",
+          "flex-wrap"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "a1BhRPxe": {
+        "id": "a1BhRPxe",
+        "type": "container",
+        "parentId": "POpreha4",
+        "children": [
+          "jlDDPfL3",
+          "bj6VQlRe",
+          "-L7ofW-k",
+          "09OKNox3",
+          "Doh-XtmZ"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-3xl",
+          "mx-auto"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "POpreha4": {
+        "id": "POpreha4",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "a1BhRPxe"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "py-24",
+          "px-8"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Y8a7S9-u": {
+        "id": "Y8a7S9-u",
+        "type": "heading",
+        "parentId": "UX7IGj4r",
+        "children": [],
+        "props": {
+          "content": "Selected Work",
+          "level": 2
+        },
+        "classes": [
+          "text-3xl",
+          "font-bold",
+          "text-gray-900",
+          "mb-12"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "fvKUWqiQ": {
+        "id": "fvKUWqiQ",
+        "type": "image",
+        "parentId": "3T5YwLrt",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Project 1"
+        },
+        "classes": [
+          "w-full",
+          "h-48",
+          "object-cover"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "64BIpV6Q": {
+        "id": "64BIpV6Q",
+        "type": "heading",
+        "parentId": "Ffpokc1C",
+        "children": [],
+        "props": {
+          "content": "Finance Dashboard",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "XO03n3JE": {
+        "id": "XO03n3JE",
+        "type": "text",
+        "parentId": "Ffpokc1C",
+        "children": [],
+        "props": {
+          "content": "A real-time analytics dashboard for enterprise finance teams."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "PsvaQ9Ol": {
+        "id": "PsvaQ9Ol",
+        "type": "link",
+        "parentId": "Ffpokc1C",
+        "children": [],
+        "props": {
+          "href": "#",
+          "label": "View Case Study →"
+        },
+        "classes": [
+          "text-blue-600",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Ffpokc1C": {
+        "id": "Ffpokc1C",
+        "type": "container",
+        "parentId": "3T5YwLrt",
+        "children": [
+          "64BIpV6Q",
+          "XO03n3JE",
+          "PsvaQ9Ol"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "3T5YwLrt": {
+        "id": "3T5YwLrt",
+        "type": "container",
+        "parentId": "dwUdb4bN",
+        "children": [
+          "fvKUWqiQ",
+          "Ffpokc1C"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "overflow-hidden",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "w42q3soP": {
+        "id": "w42q3soP",
+        "type": "image",
+        "parentId": "1QcdHXwV",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Project 2"
+        },
+        "classes": [
+          "w-full",
+          "h-48",
+          "object-cover"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "HVNMQihD": {
+        "id": "HVNMQihD",
+        "type": "heading",
+        "parentId": "BgZuZy6d",
+        "children": [],
+        "props": {
+          "content": "Mobile Commerce App",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "zfZFze1i": {
+        "id": "zfZFze1i",
+        "type": "text",
+        "parentId": "BgZuZy6d",
+        "children": [],
+        "props": {
+          "content": "End-to-end redesign of a $50M e-commerce mobile experience."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "cbk9Eca5": {
+        "id": "cbk9Eca5",
+        "type": "link",
+        "parentId": "BgZuZy6d",
+        "children": [],
+        "props": {
+          "href": "#",
+          "label": "View Case Study →"
+        },
+        "classes": [
+          "text-blue-600",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "BgZuZy6d": {
+        "id": "BgZuZy6d",
+        "type": "container",
+        "parentId": "1QcdHXwV",
+        "children": [
+          "HVNMQihD",
+          "zfZFze1i",
+          "cbk9Eca5"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "1QcdHXwV": {
+        "id": "1QcdHXwV",
+        "type": "container",
+        "parentId": "dwUdb4bN",
+        "children": [
+          "w42q3soP",
+          "BgZuZy6d"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "overflow-hidden",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "bqfBro-r": {
+        "id": "bqfBro-r",
+        "type": "image",
+        "parentId": "apr7x8TJ",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Project 3"
+        },
+        "classes": [
+          "w-full",
+          "h-48",
+          "object-cover"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "2mNZf9ne": {
+        "id": "2mNZf9ne",
+        "type": "heading",
+        "parentId": "Ln4OHiPR",
+        "children": [],
+        "props": {
+          "content": "Design System",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "GwqFMFAo": {
+        "id": "GwqFMFAo",
+        "type": "text",
+        "parentId": "Ln4OHiPR",
+        "children": [],
+        "props": {
+          "content": "Built a scalable design system used by 40+ product teams."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "zUtsjzZi": {
+        "id": "zUtsjzZi",
+        "type": "link",
+        "parentId": "Ln4OHiPR",
+        "children": [],
+        "props": {
+          "href": "#",
+          "label": "View Case Study →"
+        },
+        "classes": [
+          "text-blue-600",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Ln4OHiPR": {
+        "id": "Ln4OHiPR",
+        "type": "container",
+        "parentId": "apr7x8TJ",
+        "children": [
+          "2mNZf9ne",
+          "GwqFMFAo",
+          "zUtsjzZi"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "apr7x8TJ": {
+        "id": "apr7x8TJ",
+        "type": "container",
+        "parentId": "dwUdb4bN",
+        "children": [
+          "bqfBro-r",
+          "Ln4OHiPR"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "overflow-hidden",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "eGSRGowd": {
+        "id": "eGSRGowd",
+        "type": "image",
+        "parentId": "q_C7c8qd",
+        "children": [],
+        "props": {
+          "src": "/placeholder.svg",
+          "alt": "Project 4"
+        },
+        "classes": [
+          "w-full",
+          "h-48",
+          "object-cover"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "Ypjbiate": {
+        "id": "Ypjbiate",
+        "type": "heading",
+        "parentId": "BEVzE3hG",
+        "children": [],
+        "props": {
+          "content": "AI Onboarding Flow",
+          "level": 3
+        },
+        "classes": [
+          "text-lg",
+          "font-bold",
+          "text-gray-900",
+          "mb-2"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "fBA-0BYb": {
+        "id": "fBA-0BYb",
+        "type": "text",
+        "parentId": "BEVzE3hG",
+        "children": [],
+        "props": {
+          "content": "Reduced time-to-value by 60% through intelligent onboarding."
+        },
+        "classes": [
+          "text-gray-500",
+          "text-sm",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "xCuigOaU": {
+        "id": "xCuigOaU",
+        "type": "link",
+        "parentId": "BEVzE3hG",
+        "children": [],
+        "props": {
+          "href": "#",
+          "label": "View Case Study →"
+        },
+        "classes": [
+          "text-blue-600",
+          "text-sm",
+          "font-medium"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "BEVzE3hG": {
+        "id": "BEVzE3hG",
+        "type": "container",
+        "parentId": "q_C7c8qd",
+        "children": [
+          "Ypjbiate",
+          "fBA-0BYb",
+          "xCuigOaU"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "p-6"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "q_C7c8qd": {
+        "id": "q_C7c8qd",
+        "type": "container",
+        "parentId": "dwUdb4bN",
+        "children": [
+          "eGSRGowd",
+          "BEVzE3hG"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-white",
+          "rounded-2xl",
+          "overflow-hidden",
+          "shadow-sm"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "dwUdb4bN": {
+        "id": "dwUdb4bN",
+        "type": "grid",
+        "parentId": "UX7IGj4r",
+        "children": [
+          "3T5YwLrt",
+          "1QcdHXwV",
+          "apr7x8TJ",
+          "q_C7c8qd"
+        ],
+        "props": {
+          "label": "Grid"
+        },
+        "classes": [
+          "w-full"
+        ],
+        "styles": {},
+        "rawCss": "",
+        "gridConfig": {
+          "columns": 2,
+          "gap": "gap-8",
+          "minRows": 1
+        }
+      },
+      "UX7IGj4r": {
+        "id": "UX7IGj4r",
+        "type": "container",
+        "parentId": "X3BVcFkS",
+        "children": [
+          "Y8a7S9-u",
+          "dwUdb4bN"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "max-w-5xl",
+          "mx-auto"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "X3BVcFkS": {
+        "id": "X3BVcFkS",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "UX7IGj4r"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gray-50",
+          "py-20",
+          "px-8"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "zN_jY07k": {
+        "id": "zN_jY07k",
+        "type": "heading",
+        "parentId": "jnQSM4_X",
+        "children": [],
+        "props": {
+          "content": "Let's Work Together",
+          "level": 2
+        },
+        "classes": [
+          "text-3xl",
+          "font-bold",
+          "text-white",
+          "mb-4"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "ttjE5xz8": {
+        "id": "ttjE5xz8",
+        "type": "text",
+        "parentId": "jnQSM4_X",
+        "children": [],
+        "props": {
+          "content": "Available for freelance projects and full-time opportunities."
+        },
+        "classes": [
+          "text-gray-400",
+          "mb-8",
+          "text-lg"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "CyASsh3G": {
+        "id": "CyASsh3G",
+        "type": "link",
+        "parentId": "jnQSM4_X",
+        "children": [],
+        "props": {
+          "href": "mailto:hello@alexmorgan.co",
+          "label": "hello@alexmorgan.co"
+        },
+        "classes": [
+          "text-2xl",
+          "font-semibold",
+          "text-blue-400",
+          "hover:text-blue-300"
+        ],
+        "styles": {},
+        "rawCss": ""
+      },
+      "jnQSM4_X": {
+        "id": "jnQSM4_X",
+        "type": "container",
+        "parentId": "root",
+        "children": [
+          "zN_jY07k",
+          "ttjE5xz8",
+          "CyASsh3G"
+        ],
+        "props": {
+          "label": "Container"
+        },
+        "classes": [
+          "bg-gray-900",
+          "py-20",
+          "px-8",
+          "text-center"
+        ],
+        "styles": {},
+        "rawCss": ""
       }
     }
   },
