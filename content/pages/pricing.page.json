@@ -13,6 +13,7 @@
         "parentId": null,
         "children": [
           "A-mrPDDA",
+          "zsi_-OD4",
           "Ltqxwfvw",
           "2NNWvKBZ",
           "Qr6MBB50"
@@ -874,6 +875,23 @@
         ],
         "styles": {},
         "rawCss": ""
+      },
+      "zsi_-OD4": {
+        "id": "zsi_-OD4",
+        "parentId": "root",
+        "children": [],
+        "classes": [],
+        "type": "custom",
+        "props": {
+          "componentId": "hero-banner",
+          "componentProps": {
+            "theme": "dark",
+            "ctaUrl": "#",
+            "ctaLabel": "Get Started",
+            "headline": "Welcome to Our Platform",
+            "subheadline": "The best solution for modern teams"
+          }
+        }
       }
     }
   },
